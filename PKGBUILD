@@ -1,6 +1,6 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=ssb-autoname
-pkgver=1.0.1
+pkgver=1.0.2
 pkgrel=1
 pkgdesc="Scuttlebot plugin that automatically self-assigns a name based on HOST"
 arch=('any')
